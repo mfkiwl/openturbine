@@ -1,0 +1,14 @@
+.. meta::ded79ebe489500e6a1005bdd1550202a7afa1a92a08a0fba504132bb3ad9ad14fd16750572de49deb7b2effa10c634369c74de93e3120b5de4a1fbf7685afc33
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/elements/beams/beam_quadrature.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/elements/beams/beam\_quadrature.hpp Source File
+=========================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: beam__quadrature_8hpp_source.html

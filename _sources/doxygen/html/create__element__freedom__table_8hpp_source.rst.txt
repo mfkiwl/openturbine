@@ -1,0 +1,14 @@
+.. meta::049ac0f597b4d3762cc9586291ce004729622ae766176aeeae5fcd98fb96ba533c14d22838892c103f0b7d44f756fa201304b35bcff864f9257ccc987fc00d7b
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/dof_management/create_element_freedom_table.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/dof\_management/create\_element\_freedom\_table.hpp Source File
+=========================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: create__element__freedom__table_8hpp_source.html

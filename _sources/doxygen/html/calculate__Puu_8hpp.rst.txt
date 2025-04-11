@@ -1,0 +1,14 @@
+.. meta::2fea676c3375a6f73d2dec302369dccb9d334c7d4b7e26e2659a708dda5bab236f638a67fb1e38b3cf34dccbeb0e7e0c7df53409788bdc1af8469641297b64c1
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate_Puu.hpp File Reference
+
+/home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate\_Puu.hpp File Reference
+========================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: calculate__Puu_8hpp.html

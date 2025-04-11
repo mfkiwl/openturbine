@@ -1,0 +1,14 @@
+.. meta::31a68addd74e50e9f9d60c2f914528fda03cd261023d613efe3ae17fc097ba691d6aef083ab9104cc302b95f757d4111e33a441d16ed73911c363988da6e34b6
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/interfaces/cfd/floating_platform_input.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/interfaces/cfd/floating\_platform\_input.hpp Source File
+==================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: floating__platform__input_8hpp_source.html

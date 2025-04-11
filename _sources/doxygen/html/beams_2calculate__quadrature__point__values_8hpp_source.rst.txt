@@ -1,0 +1,14 @@
+.. meta::2792f4cae6298bdbba623df84917dd8dcbd01bcc91fb73d3693e144778efc71bae0e57421b1621ace855f3cfa690949ada83fddc9025473a98add900df9449c9
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate_quadrature_point_values.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate\_quadrature\_point\_values.hpp Source File
+===========================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: beams_2calculate__quadrature__point__values_8hpp_source.html

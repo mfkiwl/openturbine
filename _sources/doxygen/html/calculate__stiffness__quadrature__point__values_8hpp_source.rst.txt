@@ -1,0 +1,14 @@
+.. meta::beb7194e86b373a900bfe79ee40d700754f14f66a076a4f417ff2aa4554b6071f2f4c9d4358c3759ed9953de2ab4fd91e7dfdab4767796d44ac4818d653f66fc
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate_stiffness_quadrature_point_values.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate\_stiffness\_quadrature\_point\_values.hpp Source File
+======================================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: calculate__stiffness__quadrature__point__values_8hpp_source.html

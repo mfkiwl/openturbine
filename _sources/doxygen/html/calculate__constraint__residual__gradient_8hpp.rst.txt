@@ -1,0 +1,14 @@
+.. meta::e8429f7ecf0e7a79012cb4d9262e56c80ba295fd74e648737456a796fad00d8ee25162a7fe2e51a063be43e75d0165d5b95203317d463407fd2bac2cecdcf78b
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/constraints/calculate_constraint_residual_gradient.hpp File Reference
+
+/home/runner/work/openturbine/openturbine/openturbine/src/constraints/calculate\_constraint\_residual\_gradient.hpp File Reference
+==================================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: calculate__constraint__residual__gradient_8hpp.html

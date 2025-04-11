@@ -1,0 +1,14 @@
+.. meta::fbe34d66a6c0751e8018d86b8fef458a54368151bac3f7a8942498022105d6c638759843b4fe5951cc50aebe63b69844b431b4dd782d602b436416d2b0564cdd
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/interfaces/blade/blade_interface.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/interfaces/blade/blade\_interface.hpp Source File
+===========================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: blade__interface_8hpp_source.html

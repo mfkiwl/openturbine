@@ -1,0 +1,14 @@
+.. meta::7c5febddd84e1801524478628bdcfa388fb096a7acf2cde2d6e60c52d7e3fc8d7ff2bd9895f277deb8a98b466d910a76bb55aae2056745e09a0f6fce4f7b8d8f
+
+:orphan:
+
+.. title:: OpenTurbine API: openturbine::beams Namespace Reference
+
+beams Namespace Reference
+=========================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: namespaceopenturbine_1_1beams.html

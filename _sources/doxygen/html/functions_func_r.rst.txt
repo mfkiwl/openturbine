@@ -1,0 +1,14 @@
+.. meta::5b86c67612f6a712508b6627f3b388e5da27ab5ebc7827e6bc83800b8a6ecb35ef060de11add23620580e3883f7633a46c9ca804e2b6bbfbef872924c5b8bb42
+
+:orphan:
+
+.. title:: OpenTurbine API: Class Members - Functions
+
+Class Members - Functions
+=========================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: functions_func_r.html

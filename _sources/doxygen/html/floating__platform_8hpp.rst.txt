@@ -1,0 +1,14 @@
+.. meta::dc21c9dc74baff9e5298936a362f28e2a5eb0f488988a16119ee2ffee9042b4f35f1c10d474178667ca0b987778a4c156c9b9ba6c5f4776c62fe03334685652d
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/interfaces/cfd/floating_platform.hpp File Reference
+
+/home/runner/work/openturbine/openturbine/openturbine/src/interfaces/cfd/floating\_platform.hpp File Reference
+==============================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: floating__platform_8hpp.html

@@ -1,0 +1,14 @@
+.. meta::d1253015e34d118cd89e09015f88928933c1d962e989dfb1c6784eb2adf6d9d5a9ff9810f49e94e5ed913c8ff1437267376739642c0dd6a735896bc2d4a729b8
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate_Ouu.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate\_Ouu.hpp Source File
+=====================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: calculate__Ouu_8hpp_source.html

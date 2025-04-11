@@ -1,0 +1,14 @@
+.. meta::0359a53136d49f8845c2be0513cb3e2c9eaea58052b5945f53e48b8a4db9fa0d96784b1ff462723f26b8feed2a606c2ee2314ac782fe767d1e703acd4ef3758c
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/constraints/calculate_prescribed_bc_constraint.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/constraints/calculate\_prescribed\_bc\_constraint.hpp Source File
+===========================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: calculate__prescribed__bc__constraint_8hpp_source.html

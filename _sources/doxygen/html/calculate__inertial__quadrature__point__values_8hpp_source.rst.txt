@@ -1,0 +1,14 @@
+.. meta::1172fa51706a7fe3b8f0b3567955b2e30c407bfff8851d1b83ff5aa81ca718718de03caf0f2c509e22d5f60f4a06156e17d05548c520e9f795eeef95f1db0a9c
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate_inertial_quadrature_point_values.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate\_inertial\_quadrature\_point\_values.hpp Source File
+=====================================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: calculate__inertial__quadrature__point__values_8hpp_source.html

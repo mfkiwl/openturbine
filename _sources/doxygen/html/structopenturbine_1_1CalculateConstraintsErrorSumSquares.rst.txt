@@ -1,0 +1,14 @@
+.. meta::72b2861d48d5c12c33c36f22451e6c9718f59fd76d9c2cdaaa76c644d35dfd97b4e250ac1e2d670a15930044bfc73aca4e90e3c00de25613954ce8d2338397b5
+
+:orphan:
+
+.. title:: OpenTurbine API: openturbine::CalculateConstraintsErrorSumSquares Struct Reference
+
+CalculateConstraintsErrorSumSquares Struct Reference
+====================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: structopenturbine_1_1CalculateConstraintsErrorSumSquares.html

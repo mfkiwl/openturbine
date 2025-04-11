@@ -1,0 +1,14 @@
+.. meta::5cea5cdb30ab43986566348f9712cec0af78f083139a274b13d963ddac2e74f1493d87f36866d278a538d45bf255d160b28781904c75fd6016ae2119a4255fd0
+
+:orphan:
+
+.. title:: OpenTurbine API: openturbine::Beams Struct Reference
+
+Beams Struct Reference
+======================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: structopenturbine_1_1Beams.html

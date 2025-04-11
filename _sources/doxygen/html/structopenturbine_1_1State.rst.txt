@@ -1,0 +1,14 @@
+.. meta::d201bb4a52a32fa395eec8bbfbfdb6c6dd6eb03abbcc439514256551334e04ea763aeab85adc90fe3e64c0fa270e57eabea571f8d429a00f667fb7cb4162a232
+
+:orphan:
+
+.. title:: OpenTurbine API: openturbine::State Struct Reference
+
+State Struct Reference
+======================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: structopenturbine_1_1State.html

@@ -1,0 +1,14 @@
+.. meta::a045c465835eed0b16f35b8d8c4be406e438f1502cd3151f8ccf8bdf6db8404cadd0411d41381ecfe14393ce91a17302a1883452f0f6d2d0d0732b4a7bb7619d
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate_Quu.hpp File Reference
+
+/home/runner/work/openturbine/openturbine/openturbine/src/system/beams/calculate\_Quu.hpp File Reference
+========================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: calculate__Quu_8hpp.html

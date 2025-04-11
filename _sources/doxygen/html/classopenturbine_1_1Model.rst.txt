@@ -1,0 +1,14 @@
+.. meta::19bba6c2bd3578f432a575f8523d93e25f322e5018a8acf6cf28260a0074776aecacb3fc90d66c85501b76b730ff38646cce687f1c42d546445cc989a977eeb5
+
+:orphan:
+
+.. title:: OpenTurbine API: openturbine::Model Class Reference
+
+Model Class Reference
+=====================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: classopenturbine_1_1Model.html

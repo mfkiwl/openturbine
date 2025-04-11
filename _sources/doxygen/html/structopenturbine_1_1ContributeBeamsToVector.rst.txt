@@ -1,0 +1,14 @@
+.. meta::52f8e8b0d7cd68575b1577a51720f2857646f164d61c62b050d67385a43535310e54d78afb34a1ee3b344f9aaa5d8a6ca53b77ef146b4570a81a096eb87de6bc
+
+:orphan:
+
+.. title:: OpenTurbine API: openturbine::ContributeBeamsToVector Struct Reference
+
+ContributeBeamsToVector Struct Reference
+========================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: structopenturbine_1_1ContributeBeamsToVector.html

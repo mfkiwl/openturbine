@@ -1,0 +1,14 @@
+.. meta::af780c624cac2bd9a8ff7ec863e1901dc8514cb192f1a101498e40c191540415a9c375d52727cc584fcb0d51c87d4b3a10b53694c0e8d9c7dbe3ea9ec4a89df9
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/system/beams/integrate_inertia_matrix.hpp File Reference
+
+/home/runner/work/openturbine/openturbine/openturbine/src/system/beams/integrate\_inertia\_matrix.hpp File Reference
+====================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: integrate__inertia__matrix_8hpp.html

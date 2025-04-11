@@ -1,0 +1,14 @@
+.. meta::9c4ee85da724c9bb2d48c1ae8a33ba4761a075b6f571ce662a2167da7e718f549cdfe81dc347bd3f23711e7aee8d035da58cab72dd28ebb2e5bc6f6700fddb82
+
+:orphan:
+
+.. title:: OpenTurbine API: Namespace List
+
+Namespace List
+==============
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: namespaces.html

@@ -1,0 +1,14 @@
+.. meta::a5ce6abd602bcd9e703cec0e9835137184fbb17ae7ead91ed6e279012a870d9f5e779e654d8f68f489f5a897d311ec9aecd5eeda78245bab13e0f17c75d21028
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/constraints/calculate_rigid_joint_3DOF_constraint.hpp Source File
+
+/home/runner/work/openturbine/openturbine/openturbine/src/constraints/calculate\_rigid\_joint\_3DOF\_constraint.hpp Source File
+===============================================================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: calculate__rigid__joint__3DOF__constraint_8hpp_source.html

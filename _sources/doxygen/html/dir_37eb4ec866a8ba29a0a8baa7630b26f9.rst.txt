@@ -1,0 +1,14 @@
+.. meta::0e4ca2a3c30b712f25371e44a5a7862100923ec420749768157e637675eccd302038235e9cbea653197454183f2d6e3348532c84034ae59d802828ca769d55c9
+
+:orphan:
+
+.. title:: OpenTurbine API: /home/runner/work/openturbine/openturbine/openturbine/src/system/beams Directory Reference
+
+/home/runner/work/openturbine/openturbine/openturbine/src/system/beams Directory Reference
+==========================================================================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: dir_37eb4ec866a8ba29a0a8baa7630b26f9.html

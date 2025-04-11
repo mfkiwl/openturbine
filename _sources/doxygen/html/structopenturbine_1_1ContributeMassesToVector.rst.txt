@@ -1,0 +1,14 @@
+.. meta::719f878378f10e37126e81ea3a38b0ea0657e74066ae24a8e2bda451276fa556a0ba6e15ce5f7242a7091719281abd5a71de43cd3efa4c7b564d419ae95b4cd0
+
+:orphan:
+
+.. title:: OpenTurbine API: openturbine::ContributeMassesToVector Struct Reference
+
+ContributeMassesToVector Struct Reference
+=========================================
+
+.. container:: doxygen-content
+
+   
+   .. raw:: html
+     :file: structopenturbine_1_1ContributeMassesToVector.html
